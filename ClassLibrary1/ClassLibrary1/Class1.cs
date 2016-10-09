@@ -12,5 +12,11 @@ namespace ClassLibrary1
         {
             return;
         }
+
+        public void test2()
+        {
+            return;
+        }
+
     }
 }
