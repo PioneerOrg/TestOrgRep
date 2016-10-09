@@ -10,6 +10,7 @@ namespace ClassLibrary1
     {
         public void test()
         {
+            string test = "zhangqingwen";
             return;
         }
 
