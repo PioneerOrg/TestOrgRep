@@ -10,6 +10,7 @@ namespace ClassLibrary1
     {
         public void test()
         {
+            int i = int.MaxValue; 
             return;
         }
 
