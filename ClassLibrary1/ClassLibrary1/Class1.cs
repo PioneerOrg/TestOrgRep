@@ -11,6 +11,8 @@ namespace ClassLibrary1
         public void test()
         {
             string test = "zhangqingwen";
+            string test2 = "zhangqingwen";
+
             int i = int.MaxValue; 
             return;
         }
